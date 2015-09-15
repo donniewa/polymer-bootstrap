@@ -1,0 +1,30 @@
+{
+  "name": "polymer-bootstrap",
+  "version": "0.0.0",
+  "authors": [
+    "White",
+    "Donald <Donald.White@disney.com>"
+  ],
+  "main": "polymer-bootstrap.html",
+  "description": "A simple bootstrap for Polymer Projects",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "package.json",
+    "tsconfig.json"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.1.3"
+  },
+  "devDependencies": {
+    "polymer-ts": "~0.1.18"
+  }
+}

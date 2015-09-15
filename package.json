@@ -1,0 +1,29 @@
+{
+  "name": "polymer-bootstrap",
+  "version": "1.0.0",
+  "description": "A simple bootstrap for polymer projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp play"
+  },
+  "author": "Donald White",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "bower": "^1.5.2",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-inject": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-size": "^2.0.0",
+    "gulp-template": "^3.0.0",
+    "gulp-traceur": "^0.17.1",
+    "gulp-typescript": "^2.8.3",
+    "polyserve": "^0.4.0"
+  }
+}

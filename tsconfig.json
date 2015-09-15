@@ -1,0 +1,10 @@
+{
+    "cmd": ["tsc","$file"],
+    "path": "/usr/local/bin/npm",
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "target": "ES5",
+        "module": "AMD"
+    }
+}
